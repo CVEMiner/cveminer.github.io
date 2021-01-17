@@ -14,11 +14,9 @@ author: Gábor Antal
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Download: "download"
+  Contact: "contact"
+  Cite: "cite"
 
 # --- Logo --- #
 
@@ -83,10 +81,10 @@ url-pretty: "CVE Miner"
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
