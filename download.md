@@ -5,7 +5,7 @@ subtitle: Dowload links to the dataset
 ---
 
 ## MySQL version
-[Download]({% link /dataset/cve_data.sql%})
+<a href="/dataset/cve_data.sql" download="download">Download</a>
 
 ## JSON version
-[Download]({% link /dataset/cve_data.json%})
+<a href="/dataset/cve_data.json" download="download">Download</a>
