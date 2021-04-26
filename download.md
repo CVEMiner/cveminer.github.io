@@ -8,9 +8,9 @@ Our dataset is available in two different formats.
 
 ## MySQL version
 
-<a href="/dataset/cve_data.sql" download>Download</a>
+[Download](/dataset/cve_data.sql)
 
 ## JSON version
 [Download](/dataset/cve_data.json)
 
-If you are looking for the tools we developed, you can find them [here](/tools)
+If you are looking for the tools we developed, you can find them [here](/tools).
